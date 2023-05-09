@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Android_study
 
 ### Home화면
@@ -11,3 +12,6 @@
 
 ### 소켓통신
 ![image](https://user-images.githubusercontent.com/126065290/236712183-83815369-a390-43db-8b95-b69e7e21c7f9.png)
+=======
+# Android_study
+>>>>>>> cf4b9a587fd3c2a0cd95439c07701ee7be28d306
