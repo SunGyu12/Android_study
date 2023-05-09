@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Android_study
 
 ### Home화면
